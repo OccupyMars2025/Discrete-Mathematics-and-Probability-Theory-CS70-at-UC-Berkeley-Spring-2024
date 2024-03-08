@@ -1,2 +1,3 @@
-# Discrete-Mathematics-and-Probability-Theory-CS70-at-UC-Berkeley-Spring-2024
-Discrete Mathematics and Probability Theory, CS70 at UC Berkeley, Spring 2024
+# start: 2024/3/8
+## https://www.eecs70.org/
+## https://csdiy.wiki/en/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/
